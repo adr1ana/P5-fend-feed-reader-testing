@@ -7,7 +7,7 @@ Testing is an important part of the development process and many organizations p
 ## How to run RSS feed test?
 
 _Note: if you have not installed NodeJS or NPM you will need to install these first before running Jasmine tests. 
-You can download and install NodeJS and NPM by going to [Nodes official site] (https://nodejs.org/en/) and downloading the latest version of NodeJS._
+You can download and install NodeJS and NPM by going to [Nodes official site](https://nodejs.org/en/) and downloading the latest version of NodeJS._
 1. Clone or download my project from GitHub.
 2. To run website and tests open `index.html` with any browser you have.
 3. If you want to check or edit tests, open: **\jasmine\spec\feedreader.js** which contains all tests that will run against my app.
@@ -39,5 +39,5 @@ You can download and install NodeJS and NPM by going to [Nodes official site] (h
 - [x] Write a README file detailing all steps required to successfully run the application. 
 
 ### Note:
-This [Jasmine guide] (https://jasmine.github.io/2.1/introduction) helped me a lot in writing tests too. 
+This [Jasmine guide](https://jasmine.github.io/2.1/introduction) helped me a lot in writing tests too. 
 For this projects we were using `Jasmine-2.1.2`
