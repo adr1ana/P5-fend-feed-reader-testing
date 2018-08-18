@@ -12,6 +12,7 @@ You can download and install NodeJS and NPM by going to [Nodes official site](ht
 2. To run website and tests open `index.html` with any browser you have.
 3. If you want to check or edit tests, open: **/jasmine/spec/feedreader.js** which contains all tests that will run against my app.
 4. I would like to mention RSS feed reader application too: **/js/app.js** . It uses the Google Feed Reader API to grab RSS feeds as JSON object. It also uses the Handlebars templating library and jQuery. Go throu it to understand project logic.
+5. You can try to run my project [live](https://adr1ana.github.io/P5-fend-feed-reader-testing/) too!
 
 ## What was my task?
 
