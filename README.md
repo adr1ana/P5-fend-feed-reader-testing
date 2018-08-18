@@ -10,8 +10,8 @@ _Note: if you have not installed NodeJS or NPM you will need to install these fi
 You can download and install NodeJS and NPM by going to [Nodes official site](https://nodejs.org/en/) and downloading the latest version of NodeJS._
 1. Clone or download my project from GitHub.
 2. To run website and tests open `index.html` with any browser you have.
-3. If you want to check or edit tests, open: **\jasmine\spec\feedreader.js** which contains all tests that will run against my app.
-4. I would like to mention RSS feed reader application too: **\js\app.js** . It uses the Google Feed Reader API to grab RSS feeds as JSON object. It also uses the Handlebars templating library and jQuery. Go throu it to understand project logic.
+3. If you want to check or edit tests, open: **/jasmine/spec/feedreader.js** which contains all tests that will run against my app.
+4. I would like to mention RSS feed reader application too: **/js/app.js** . It uses the Google Feed Reader API to grab RSS feeds as JSON object. It also uses the Handlebars templating library and jQuery. Go throu it to understand project logic.
 
 ## What was my task?
 
