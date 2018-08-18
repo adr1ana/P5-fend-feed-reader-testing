@@ -39,5 +39,5 @@ You can download and install NodeJS and NPM by going to [Nodes official site](ht
 - [x] Write a README file detailing all steps required to successfully run the application. 
 
 ### Note:
-This [Jasmine guide](https://jasmine.github.io/2.1/introduction) helped me a lot in writing tests too. 
+This [Jasmine guide](https://jasmine.github.io/2.1/introduction) helped me a lot in writing tests. <br> 
 For this projects we were using `Jasmine-2.1.2`
